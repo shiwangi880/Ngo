@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+.hero {
+  height: 80vh;
+  background: url("../../assets/ngo boys.jpg") no-repeat center center/cover;
+  background-position: center 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  padding: 0 20px;
+  margin-bottom: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero-content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px 25px;
+  border-radius: 8px;
+  max-width: 600px;
+  width: 100%;
+  font-weight: 300;
+}
+
+.hero-content h1 {
+  margin: 0;
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 1.1;
+}
+
+.hero-content p {
+  font-size: 1.3rem;
+  margin-top: 12px;
+  font-weight: 300;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 14px 30px;
+  background: #5a9bd4; 
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 400;
+  font-size: 1.1rem;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(90, 155, 212, 0.3);
+}
+
+.btn:hover,
+.btn:focus {
+  background: #4a8ac1;
+  box-shadow: 0 6px 16px rgba(90, 155, 212, 0.5);
+  outline: none;
+  color: #fff;
+}
+
+
+.info {
+  background-color: #ffffff;
+  padding: 60px 20px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.info h2 {
+  font-size: 2rem;
+  font-weight: 300;
+  color: #2d2d2d;
+  margin-bottom: 15px;
+  text-align: center; 
+}
+
+.info p {
+  font-size: 1.1rem;
+  font-weight: 200;
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+}
