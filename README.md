@@ -1,4 +1,4 @@
-# 🌍 Basti Ki Pathshala Foundation – NGO Website
+# 🌍 Basti Ki Pathshala Foundation – NGO Website (Frontend)
 
 This is the official responsive website for **Basti Ki Pathshala Foundation**, a grassroots NGO dedicated to education and empowerment. Built with **ReactJS** and **CSS**, the website provides information about the organization's mission, initiatives, and how people can get involved.
 
